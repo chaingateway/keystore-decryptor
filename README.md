@@ -11,7 +11,7 @@ This tool allows you to decrypt your EVM-based Keystore Files for blockchains li
 Check out the hosted version of this tool at [Chaingateway.io](https://chaingateway.io/tools/keystore-decryptor/).
 
 ### Why Use ChainGateway.io?
-Chaingateway.io offers a secure and easy-to-use platform for various blockchain tools, including this **Keystore Decryptor**. If you're looking for a convenient solution with more capabilities and professional support, the hosted version may be ideal for you.
+Chaingateway.io provides an API for simplified Blockchain interactions on Ethereum, Polygon, Binance Smart Chain, Tron and Bitcoin
 
 ## How to Use
 1. Clone or download this repository.
