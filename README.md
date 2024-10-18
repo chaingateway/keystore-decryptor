@@ -1,6 +1,6 @@
-# Keystore Decryptor for Ethereum, BNB, and Polygon
+# Keystore Decryptor for EVM-based Blockchain Keystore Files
 
-This tool allows you to decrypt your **Ethereum**, **BNB**, or **Polygon** keystore files and extract the private key securely. All operations are performed client-side in your browser to ensure maximum security and privacy. Your data is never sent to any server.
+This tool allows you to decrypt your EVM-based Keystore Files for blockchains like Ethereum, BNB, or Polygon and extract the private key securely. All operations are performed client-side in your browser to ensure maximum security and privacy. Your data is never sent to any server.
 
 ## Features
 - Decrypts Ethereum, BNB, and Polygon keystore files.
