@@ -26,4 +26,4 @@ For the best security practices:
 - Use this tool in an isolated, offline environment if possible.
 
 ## Acknowledgments
-This tool is powered by the fantastic work from the [ethereumjs/keythereum](https://github.com/ethereumjs/keythereum) library. Keythereum handles the decryption of keystore files and is trusted by the Ethereum community for its security and robustness.
+This tool is powered by the fantastic work from the [ethereumjs/keythereum](https://github.com/ethereumjs/keythereum) library.
